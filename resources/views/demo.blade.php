@@ -3,7 +3,7 @@
     <!-- Page Content -->
     <div class="container">
 
-        <h1 class="my-4">Test website</h1>
+        <h1 class="my-4">Demo test website</h1>
 
         <!-- Marketing Icons Section -->
         <div class="row">
